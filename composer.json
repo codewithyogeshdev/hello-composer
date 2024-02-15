@@ -1,0 +1,18 @@
+{
+    "name": "vitalis/hello-composer",
+    "description": "A simple hello world composer package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vitalis\\HelloComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yogesh Vakhre",
+            "email": "yogesh.v@thebytelab.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
