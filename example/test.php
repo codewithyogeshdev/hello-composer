@@ -2,7 +2,7 @@
 
 require_once __DIR__ . '/vendor/autoload.php';
 
-use vitalis\HelloComposer\Index;
+use Thebytelab\HelloComposer\Index;
 
 $greeting = new Index();
 

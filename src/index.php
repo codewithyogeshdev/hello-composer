@@ -1,6 +1,6 @@
 <?php
 
-namespace Vitalis\HelloComposer;
+namespace Thebytelab\HelloComposer;
 
 class Index
 {

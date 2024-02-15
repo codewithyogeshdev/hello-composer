@@ -1,10 +1,10 @@
 {
-    "name": "vitalis/hello-composer",
+    "name": "thebytelab/hello-composer",
     "description": "A simple hello world composer package",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Vitalis\\HelloComposer\\": "src/"
+            "Thebytelab\\HelloComposer\\": "src/"
         }
     },
     "authors": [
