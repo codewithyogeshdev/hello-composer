@@ -1,6 +1,6 @@
 <?php
 
-namespace Thebytelab\HelloComposer;
+namespace BytelabDemo\HelloComposer;
 
 class Index
 {

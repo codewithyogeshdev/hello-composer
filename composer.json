@@ -1,10 +1,10 @@
 {
-    "name": "thebytelab/hello-composer",
+    "name": "bytelabdemo/hello-composer",
     "description": "A simple hello world composer package",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Thebytelab\\HelloComposer\\": "src/"
+            "BytelabDemo\\HelloComposer\\": "src/"
         }
     },
     "authors": [
